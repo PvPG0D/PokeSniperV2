@@ -1,0 +1,1 @@
+PokeSniper2.exe -removeurl
